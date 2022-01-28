@@ -11,6 +11,9 @@ but i cant not fix err in 2 days .
 I will try to complete it in the future
 ref: 
 [1]decorator_user :https://www.geeksforgeeks.org/using-jwt-for-user-authentication-in-flask/
+
 [2] create db :https://pythonbasics.org/flask-sqlalchemy/ ( but have some e)
+
 [3]https://github.com/Durgaprasad-Nagarkatte/Simple-Flask-Shopping-Cart
+
 [4] friend ahihi 
