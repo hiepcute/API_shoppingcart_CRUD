@@ -1,3 +1,4 @@
+from app import  *
 @app.route('/register', methods=['POST'])
 def signup_user():
     data = request.get_json()

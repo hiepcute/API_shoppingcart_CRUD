@@ -1,3 +1,4 @@
+from app import *
 def token_required(f):
     @wraps(f)
     def decorator(*args, **kwargs):
