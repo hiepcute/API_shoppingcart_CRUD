@@ -6,8 +6,10 @@ flollowing 5 steps:
 3. touch app.py
 4. python app.py
 5. python3 app.py
+
 Note : The project is not finished yet and have some error 
-but i cant not fix err in 2 days . 
+but i cant not fix err in 2 days
+
 I will try to complete it in the future
 
 ref: 
