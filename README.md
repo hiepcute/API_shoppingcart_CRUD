@@ -1,6 +1,6 @@
 # API_shoppingcart_CRUD
 to run project above:
-flollowing 5 steps:
+following 5 steps:
 1. open cmd run : sqlite3 bookstore.db 
 2. .databases
 3. touch app.py
