@@ -15,7 +15,7 @@ def token_required(f):
             current_user = Users.query.filter_by(public_id=data['public_id']).first()
         except:
             return jsonify({'message': 'token is invalid'})
-        returns the current logged in users contex to the routes
+        #returns the current logged in users contex to the routes
         return f(current_user, *args, **kwargs)
 
     return decorator
